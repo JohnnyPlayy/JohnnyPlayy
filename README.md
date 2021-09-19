@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lenon</h1>
+<h1 align="center">Hi 👋, I'm Johnny</h1>
 <h3 align="center">I'm a developer looking to learn more and more. I don't have a specific area, so don't be scared. You'll find it all here!</h3>
 
 - 🔭 I’m currently working on **Nova Dev**
