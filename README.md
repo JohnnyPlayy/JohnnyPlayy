@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johnny</h1>
 <h3 align="center">I'm a developer looking to learn more and more.</h3>
 
-- 🔭 I’m currently working on **Nova Dev**
-
 - 🌱 I am currently a **Java programmer**
 
 - 📫 How to reach me **johnny@novaminecraft.com**
